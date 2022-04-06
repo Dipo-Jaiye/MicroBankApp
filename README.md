@@ -1,3 +1,5 @@
+<h1> Micro Bank (Wallet) App </h1>
+
 > This app can do the following
 
 - User can create an account
