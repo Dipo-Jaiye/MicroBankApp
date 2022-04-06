@@ -8,3 +8,9 @@
 > Technical Documentation
 
 Click [here](https://documenter.getpostman.com/view/16059391/UVyuTFsQ) to view Postman link
+
+> Running the App
+
+- Clone the repository
+- Run `npm install` to install all the required dependencies
+- Run `npm run dev` to run the app in development mode
